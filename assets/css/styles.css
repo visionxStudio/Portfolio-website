@@ -3299,11 +3299,14 @@ body {
        SERVICES
     ==============
 */
+
 .mh-service .mh-service-item {
   padding: 20px;
 }
+
 .mh-service .mh-service-item .fa {
   font-size: 30px;
+  align-items: center;
   margin-bottom: 20px;
   margin-top: 16px;
 }
