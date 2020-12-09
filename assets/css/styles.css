@@ -346,6 +346,13 @@ section {
   color: #e91e63;
   border: 1px solid #e91e63;
 }
+
+.btn.btn-fill:hover {
+  background-color: #e91e63;
+  /* color: #fff; */
+  color: white;
+  border: 1px solid #e91e63;
+}
 .btn.left-icon .icon {
   margin-right: 15px;
 }
