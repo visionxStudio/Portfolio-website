@@ -2,7 +2,7 @@
   $name = $_POST["name"];
   $email = $_POST["email"];
   $message = $_POST["message"];
-  $EmailTo = "7feb.manish@gmail.com"; // change with your email
+  $EmailTo = "7feb.manish@gmail.com"; 
   $Subject = "Portfolio/CV";
   // prepare email body text
   $Body .= "Name: ";
